@@ -5,4 +5,5 @@ off the shelf components:
 - 2" diffuser (e.g. Edmund Optics #47-991)
 - 4 624ZZ bearings (ID 4mm, OD 13mm, width 5mm)
 - M4 fastening brass inserts (e.g. Farnell M4-UHBRFLSF) 
+- some M4 screws, nuts, and washers
 - the post of your choice
