@@ -1,4 +1,6 @@
-off the shelf components: 
+prints the STLs (in orange in the rendering) with an FFF/FDM printer
+
+add the off the shelf components: 
 - timing belt : 920 MXL 80 115
 - NEMA8 bipolar stepper motor
 - bipolar stepper motor driver (control the voltage and current of the chosen motor)
