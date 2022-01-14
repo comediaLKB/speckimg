@@ -1,4 +1,6 @@
 # speckimg
+[![DOI](https://zenodo.org/badge/386639028.svg)](https://zenodo.org/badge/latestdoi/386639028)
+
 
 repo with a code example of the reconstruction technique
 
